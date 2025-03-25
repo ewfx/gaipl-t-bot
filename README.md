@@ -44,13 +44,22 @@ An AI-driven tax assistant that automates tax calculations, answers queries accu
 Tax-Bot is inspired by the complexity of tax laws and the need for instant, accurate, and accessible tax guidance. Using Agentic AI, it retrieves relevant data, answers queries, and performs real-time tax calculations, reducing errors and optimizing deductions. As AI-driven financial tools grow in demand, this Tax-Bot serves as a smart, autonomous assistant, simplifying tax compliance for individuals and businesses.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+The Agentic AI-powered Tax-Bot answers tax queries, performs real-time calculations, retrieves data from tax PDFs, ensures compliance, and provides an interactive UI—making tax filing easier and more efficient
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+We built the Agentic AI-powered Tax Chatbot using:
+Python & Streamlit – For an interactive and user-friendly UI.
+LangChain & LLM – To retrieve tax information and generate responses.
+Vector Database (e.g., FAISS, ChromaDB) – For efficient document search across 20+ tax PDFs.
+Agentic AI – To break down complex queries, retrieve relevant data, and perform reasoning.
+Tax APIs & Pandas – For real-time tax calculations and data processing.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Handling Complex Tax Laws – Extracting and interpreting regulations from 20+ PDFs while ensuring accuracy.
+Efficient Document Retrieval – Implementing vector search for fast and relevant tax law retrieval.
+Multi-Step Reasoning – Designing Agentic AI to break down complex tax queries logically.
+Ensuring Accuracy – Validating tax calculations.
+User-Friendly UI – Creating an intuitive Streamlit interface for seamless interaction.
 
 ## 🏃 How to Run
 1. Clone the repository  
