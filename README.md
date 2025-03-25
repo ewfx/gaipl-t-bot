@@ -47,7 +47,7 @@ Tax-Bot is inspired by the complexity of tax laws and the need for instant, accu
 The Agentic AI-powered Tax-Bot answers tax queries, performs real-time calculations, retrieves data from tax PDFs, ensures compliance, and provides an interactive UI—making tax filing easier and more efficient
 
 ## 🛠️ How We Built It
-We built the Agentic AI-powered Tax Chatbot using:
+We built the Agentic AI-powered Tax-Bot using:
 Python & Streamlit – For an interactive and user-friendly UI.
 LangChain & LLM – To retrieve tax information and generate responses.
 Vector Database (e.g., FAISS, ChromaDB) – For efficient document search across 20+ tax PDFs.
