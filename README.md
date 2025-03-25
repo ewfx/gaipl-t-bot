@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 TBot
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
