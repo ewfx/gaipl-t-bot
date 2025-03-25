@@ -14,7 +14,30 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+**Project-Name : TBot (Agentic AI-Powered Tax-Bot)**
+
+Tax calculations are complex due to evolving laws, deductions, and exemptions. Individuals and businesses struggle with compliance, manual calculations, and retrieving relevant tax information.
+
+**Problem Statement :**
+Develop an Agentic AI-powered Tax-Bot using LangChain and an LLM, integrated with Streamlit for an intuitive UI. The chatbot should autonomously:
+
+Retrieve relevant tax information from 20+ PDFs.
+
+Perform real-time tax calculations based on user inputs.
+
+Handle multi-step reasoning to break down queries and refine responses.
+
+Ensure compliance by extracting and summarizing legal tax codes.
+
+**Objectives :**
+Implement agent-driven document retrieval and tax calculations.
+
+Enable dynamic query interpretation with follow-up question handling.
+
+Provide an interactive Streamlit UI for seamless user experience.
+
+**Expected Outcome :**
+An AI-driven tax assistant that automates tax calculations, answers queries accurately, and simplifies tax compliance.
 
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
