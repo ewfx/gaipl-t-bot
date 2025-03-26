@@ -15,14 +15,15 @@
 
 ## 🎯 Introduction
 **Project-Name : TBot (Agentic AI-Powered Tax-Bot)**
-Tax calculations are complex due to evolving laws, deductions, and exemptions. Individuals and businesses struggle with compliance, manual calculations, and retrieving relevant tax information.
+Tax calculation is often complex and time-consuming due to varying tax laws, exemptions, and deductions. Individuals and businesses frequently seek guidance on tax-related queries but struggle with navigating multiple PDFs, tax codes, and government regulations. A chatbot powered by AI can simplify this process by providing instant, accurate, and user-friendly tax assistance.
 
 **Problem Statement :**
-Develop an Agentic AI-powered Tax-Bot using LangChain and an LLM, integrated with Streamlit for an intuitive UI. The chatbot should autonomously:
-Retrieve relevant tax information from 20+ PDFs.
-Perform real-time tax calculations based on user inputs.
-Handle multi-step reasoning to break down queries and refine responses.
-Ensure compliance by extracting and summarizing legal tax codes.
+Develop an AI-powered Tax Calculation Chatbot using LangChain and an LLM, integrated with Streamlit for an interactive UI. The chatbot should retrieve relevant information from a large set of tax-related PDFs (>20) and assist users by:
+
+Answering tax-related questions accurately.
+Providing real-time tax calculations based on user inputs.
+Handling different tax categories (e.g., income tax, corporate tax, deductions, and exemptions).
+Offering an easy-to-use interface with a visually appealing design.
 
 **Objectives :**
 Implement agent-driven document retrieval and tax calculations.
@@ -36,6 +37,8 @@ An AI-driven tax assistant that automates tax calculations, answers queries accu
 🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) (if applicable)  
 🖼️ Screenshots:
+![image](https://github.com/user-attachments/assets/bdf599e6-a317-446f-976f-f5f223510ab9)
+
 
 ![Screenshot 1](link-to-image)
 
