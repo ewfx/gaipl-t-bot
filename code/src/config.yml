@@ -1,0 +1,7 @@
+GROQ_BASE_URL : "https://api.groq.com/openai/v1"
+GROQ_API_KEY : "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"
+GROQ_DEEPSEEK_R_1 :   "deepseek-r1-distill-llama-70b"
+GROQ_llama_3_3_70B_VERSATILE : "llama-3.3-70b-versatile"
+GROQ_llama_3_3_70B_SPECTEC : "llama-3.3-70b-specdec"  
+GROQ_MIXTRAL : "mixtral-8x7b-32768"
+GROQ_GEMMA : "gemma2-9b-it"
