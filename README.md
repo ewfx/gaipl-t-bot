@@ -67,15 +67,15 @@ User-Friendly UI – Creating an intuitive Streamlit interface for seamless inte
 ## 🏃 How to Run
 1. Clone the repository  
    ```sh
-   git clone https://github.com/your-repo.git
+   git clone [https://github.com/your-repo.git](https://github.com/ewfx/gaipl-t-bot/)
    ```
 2. Install dependencies  
    ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
+   npm install  # or pip install streamlit OpenAI prompt SYSTEM_PROMPT config load_config_data
    ```
 3. Run the project  
    ```sh
-   npm start  # or python app.py
+  streamlit run tax_chatbot.py
    ```
 
 ## 🏗️ Tech Stack
